@@ -40,6 +40,15 @@ session_destroy();
             </tr>
         </table>
     </div>
+    <div id="navbar">
+        <ul id="menu">
+            <li><a href="index.php">Home</a></li>
+            <li><a href="products.php">All Products</a></li>
+            <li><a href="my_account.php">My Account</a></li>
+            <li><a href="cart.php">Shopping Cart</a></li>
+            <li><a href="contact.php">Contact Us</a></li>
+        </ul>
+    </div>
     <br>
     <div class="container">
         <div class="row">

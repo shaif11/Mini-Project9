@@ -17,9 +17,8 @@ require 'check_if_added.php';
         <table border="0" width="100%" bgcolor="#ffb6c1">
             <tr>
 
-                <td align="right"><h4 style="font-family:'Arizonia',serif;font-size:30px; margin:0;" ;><a style="text-decoration: none;color: black" href="index.php"> Online Shop</a></h4></td>
-                <td><label>
                 <td align="right"><h4 style="font-family:'Arizonia',serif;font-size:30px; margin:0;" ;>Online Shop</h4></td>
+                <td><label>
                 <td>
                     <form method="get" action="products.php" enctype="multipart/form-data">
 
@@ -42,6 +41,15 @@ require 'check_if_added.php';
                 ?>
             </tr>
         </table>
+    </div>
+    <div id="navbar">
+        <ul id="menu">
+            <li><a href="index.php">Home</a></li>
+            <li><a href="products.php">All Products</a></li>
+            <li><a href="my_account.php">My Account</a></li>
+            <li><a href="cart.php">Shopping Cart</a></li>
+            <li><a href="contact.php">Contact Us</a></li>
+        </ul>
     </div>
     <div class="container"><br>
         <div class="jumbotron">
