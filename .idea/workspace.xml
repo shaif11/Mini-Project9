@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4b66f2b9-bbf2-4d3e-8974-5d73c2d549d4" name="Default Changelist" comment="add br tag" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
+  <component name="ProjectId" id="1gSCdhDDgmBr53aiq64CelcOsza" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Mid Term Report" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\wamp64\www\Mini-Project9\Mid Term Report" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4b66f2b9-bbf2-4d3e-8974-5d73c2d549d4" name="Default Changelist" comment="" />
+      <created>1598098696559</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598098696559</updated>
+      <workItem from="1598098698697" duration="354000" />
+      <workItem from="1598184919674" duration="228000" />
+      <workItem from="1598245459962" duration="27000" />
+      <workItem from="1598344659622" duration="6000" />
+      <workItem from="1598765769957" duration="591000" />
+      <workItem from="1598965627772" duration="59000" />
+      <workItem from="1598965864079" duration="5000" />
+      <workItem from="1602917845456" duration="126000" />
+      <workItem from="1603029885876" duration="83000" />
+      <workItem from="1603029985068" duration="157000" />
+      <workItem from="1603361410547" duration="602000" />
+      <workItem from="1606287653670" duration="852000" />
+      <workItem from="1606292643440" duration="1031000" />
+      <workItem from="1606304752439" duration="4530000" />
+      <workItem from="1606367338154" duration="2641000" />
+    </task>
+    <task id="LOCAL-00001" summary="init">
+      <created>1598098784444</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1598098784444</updated>
+    </task>
+    <task id="LOCAL-00002" summary="init">
+      <created>1598098957188</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1598098957188</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Add mid term report">
+      <created>1603030076984</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1603030076984</updated>
+    </task>
+    <task id="LOCAL-00004" summary="add padding footer">
+      <created>1606368457548</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1606368457548</updated>
+    </task>
+    <task id="LOCAL-00005" summary="add ankor tag">
+      <created>1606369183041</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1606369183041</updated>
+    </task>
+    <task id="LOCAL-00006" summary="add br tag">
+      <created>1606369601677</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1606369601677</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init" />
+    <MESSAGE value="Add mid term report" />
+    <MESSAGE value="add padding footer" />
+    <MESSAGE value="add ankor tag" />
+    <MESSAGE value="add br tag" />
+    <option name="LAST_COMMIT_MESSAGE" value="add br tag" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="493" y="214" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1598098891399">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="493" y="214" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1598098891399" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1598965641192">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1598965641192" />
+    <state x="639" y="310" key="Github.ShareDialog" timestamp="1598098808093">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="639" y="310" key="Github.ShareDialog/0.0.1536.824@0.0.1536.824" timestamp="1598098808093" />
+    <state x="604" y="335" key="NewPhpFileDialog" timestamp="1606305398468">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="604" y="335" key="NewPhpFileDialog/0.0.1536.824@0.0.1536.824" timestamp="1606305398468" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1606369608064">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1606369608064" />
+    <state x="586" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1606292915931">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="586" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1606292915931" />
+  </component>
+</project>
