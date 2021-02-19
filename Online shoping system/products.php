@@ -16,9 +16,12 @@ require 'check_if_added.php';
     <div class="header">
         <table border="0" width="100%" bgcolor="#ffb6c1">
             <tr>
+
                 <td align="right"><h4 style="font-family:'Arizonia',serif;font-size:30px; margin:0;" ;>Online Shop</h4></td>
+                <td><label>
                 <td>
                     <form method="get" action="products.php" enctype="multipart/form-data">
+
                         <input type="text" placeholder="Search for products, brand and more" name="user_query" style="width:550px; height:35px;">
                         <input type="button" name="search" value="Search" style="width:60px;height:35px;"></form></td>
                 <?php
@@ -39,7 +42,16 @@ require 'check_if_added.php';
             </tr>
         </table>
     </div>
-    <div class="container">
+    <div id="navbar">
+        <ul id="menu">
+            <li><a href="index.php">Home</a></li>
+            <li><a href="products.php">All Products</a></li>
+            <li><a href="my_account.php">My Account</a></li>
+            <li><a href="cart.php">Shopping Cart</a></li>
+            <li><a href="contact.php">Contact Us</a></li>
+        </ul>
+    </div>
+    <div class="container"><br>
         <div class="jumbotron">
             <h1>Welcome to our Online Shop Store!</h1>
             <p>We have the best cameras, watches and shirts for you. No need to hunt around, we have all in one place.</p>
@@ -65,7 +77,7 @@ require 'check_if_added.php';
                                     echo '<a href="#" class=btn btn-block btn-success disabled>Added to cart</a>';
                                 }else{
                                     ?>
-                                    <a href="cart_add.php?id=1" class="btn btn-block btn-primary" name="add" value="add" class="btn btn-block btr-primary">Add to cart</a>
+                                    <a href="cart_add.php?id=1" class="btn btn-block btn-primary" name="add" value="add" class="btn btn-block btr-primary">Add to cart</a><br>
                                     <?php
                                 }
                             }
@@ -175,7 +187,7 @@ require 'check_if_added.php';
                                     echo '<a href="#" class=btn btn-block btn-success disabled>Added to cart</a>';
                                 }else{
                                     ?>
-                                    <a href="cart_add.php?id=5" class="btn btn-block btn-primary " name="add" value="add" class="btn btn-block btr-primary">Add to cart</a>
+                                    <a href="cart_add.php?id=5" class="btn btn-block btn-primary " name="add" value="add" class="btn btn-block btr-primary">Add to cart</a><br>
                                     <?php
                                 }
                             }

@@ -39,7 +39,16 @@
             </tr>
         </table>
     </div>
-    <br><br><br><br><br>
+    <div id="navbar">
+        <ul id="menu">
+            <li><a href="index.php">Home</a></li>
+            <li><a href="products.php">All Products</a></li>
+            <li><a href="my_account.php">My Account</a></li>
+            <li><a href="cart.php">Shopping Cart</a></li>
+            <li><a href="contact.php">Contact Us</a></li>
+        </ul>
+    </div>
+    <br><br><br>
     <div class="container">
         <div class="row">
             <div class="col-lg-4 col-lg-offset-4">

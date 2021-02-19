@@ -19,10 +19,20 @@
     <select />
   </component>
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="dbf7aa99-444b-445a-b120-6216e385b7b2" name="Default Changelist" comment="some changement in links">
       <change afterPath="$PROJECT_DIR$/Online shoping system/contact.php" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Online shoping system/function.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Online shoping system/database/miniproject.sql" beforeDir="false" afterPath="$PROJECT_DIR$/Online shoping system/database/miniproject.sql" afterDir="false" />
+=======
+    <list default="true" id="4b66f2b9-bbf2-4d3e-8974-5d73c2d549d4" name="Default Changelist" comment="commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Online shoping system/cart.php" beforeDir="false" afterPath="$PROJECT_DIR$/Online shoping system/cart.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Online shoping system/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/Online shoping system/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Online shoping system/login.php" beforeDir="false" afterPath="$PROJECT_DIR$/Online shoping system/login.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Online shoping system/products.php" beforeDir="false" afterPath="$PROJECT_DIR$/Online shoping system/products.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Online shoping system/signup.php" beforeDir="false" afterPath="$PROJECT_DIR$/Online shoping system/signup.php" afterDir="false" />
+>>>>>>> origin/master
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,6 +42,7 @@
   <component name="ComposerSettings">
     <execution />
   </component>
+<<<<<<< HEAD
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -39,28 +50,47 @@
       </list>
     </option>
   </component>
+=======
+>>>>>>> origin/master
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
+<<<<<<< HEAD
   <component name="ProjectId" id="1goAwyQHH6pYNk7twWNyNNdSaD3" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
+=======
+  <component name="ProjectId" id="1gSCdhDDgmBr53aiq64CelcOsza" />
+>>>>>>> origin/master
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+<<<<<<< HEAD
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="vue.rearranger.settings.migration" value="true" />
+=======
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Mid Term Report" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\wamp64\www\Mini-Project9\Mid Term Report" />
+    </key>
+>>>>>>> origin/master
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
+<<<<<<< HEAD
       <changelist id="dbf7aa99-444b-445a-b120-6216e385b7b2" name="Default Changelist" comment="" />
       <created>1598770823621</created>
       <option name="number" value="Default" />
@@ -434,6 +464,87 @@
       <updated>1606294842208</updated>
     </task>
     <option name="localTasksCounter" value="204" />
+=======
+      <changelist id="4b66f2b9-bbf2-4d3e-8974-5d73c2d549d4" name="Default Changelist" comment="" />
+      <created>1598098696559</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598098696559</updated>
+      <workItem from="1598098698697" duration="354000" />
+      <workItem from="1598184919674" duration="228000" />
+      <workItem from="1598245459962" duration="27000" />
+      <workItem from="1598344659622" duration="6000" />
+      <workItem from="1598765769957" duration="591000" />
+      <workItem from="1598965627772" duration="59000" />
+      <workItem from="1598965864079" duration="5000" />
+      <workItem from="1602917845456" duration="126000" />
+      <workItem from="1603029885876" duration="83000" />
+      <workItem from="1603029985068" duration="157000" />
+      <workItem from="1603361410547" duration="602000" />
+      <workItem from="1606287653670" duration="852000" />
+      <workItem from="1606292643440" duration="1031000" />
+      <workItem from="1606304752439" duration="4530000" />
+      <workItem from="1606367338154" duration="2737000" />
+      <workItem from="1606381681277" duration="4718000" />
+    </task>
+    <task id="LOCAL-00001" summary="init">
+      <created>1598098784444</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1598098784444</updated>
+    </task>
+    <task id="LOCAL-00002" summary="init">
+      <created>1598098957188</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1598098957188</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Add mid term report">
+      <created>1603030076984</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1603030076984</updated>
+    </task>
+    <task id="LOCAL-00004" summary="add padding footer">
+      <created>1606368457548</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1606368457548</updated>
+    </task>
+    <task id="LOCAL-00005" summary="add ankor tag">
+      <created>1606369183041</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1606369183041</updated>
+    </task>
+    <task id="LOCAL-00006" summary="add br tag">
+      <created>1606369601677</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1606369601677</updated>
+    </task>
+    <task id="LOCAL-00007" summary="delete results.php">
+      <created>1606370068653</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1606370068653</updated>
+    </task>
+    <task id="LOCAL-00008" summary="commit">
+      <created>1606388073114</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1606388073114</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
+>>>>>>> origin/master
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -452,6 +563,7 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
+<<<<<<< HEAD
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="set heading for change password" />
     <MESSAGE value="using post method for form" />
@@ -501,5 +613,45 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1606294858142" />
+=======
+    <MESSAGE value="init" />
+    <MESSAGE value="Add mid term report" />
+    <MESSAGE value="add padding footer" />
+    <MESSAGE value="add ankor tag" />
+    <MESSAGE value="add br tag" />
+    <MESSAGE value="delete results.php" />
+    <MESSAGE value="commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="493" y="214" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1598098891399">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="493" y="214" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1598098891399" />
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1606370031192">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1606370031192" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1598965641192">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1598965641192" />
+    <state x="639" y="310" key="Github.ShareDialog" timestamp="1598098808093">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="639" y="310" key="Github.ShareDialog/0.0.1536.824@0.0.1536.824" timestamp="1598098808093" />
+    <state x="604" y="335" key="NewPhpFileDialog" timestamp="1606305398468">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="604" y="335" key="NewPhpFileDialog/0.0.1536.824@0.0.1536.824" timestamp="1606305398468" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1606388082758">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1606388082758" />
+    <state x="586" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1606387851040">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="586" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1606387851040" />
+>>>>>>> origin/master
   </component>
 </project>
