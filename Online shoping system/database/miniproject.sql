@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: Nov 25, 2020 at 08:47 AM
+-- Generation Time: Feb 19, 2021 at 05:06 AM
 -- Server version: 10.4.11-MariaDB
 -- PHP Version: 7.4.6
 
@@ -20,6 +20,30 @@ SET time_zone = "+00:00";
 --
 -- Database: `miniproject`
 --
+
+-- --------------------------------------------------------
+
+--
+-- Table structure for table `contact_us`
+--
+
+CREATE TABLE `contact_us` (
+  `id` int(11) NOT NULL,
+  `name` varchar(50) NOT NULL,
+  `email` varchar(50) NOT NULL,
+  `subject` varchar(200) NOT NULL,
+  `message` text NOT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
+
+--
+-- Dumping data for table `contact_us`
+--
+
+INSERT INTO `contact_us` (`id`, `name`, `email`, `subject`, `message`) VALUES
+(1, 'Shaif Siddiqui', 'shaifsiddiqui1101@gmail.com', 'shaif', 'bjhgujhgmbn'),
+(2, 'Shaif Siddiqui', 'shaifsiddiqui1101@gmail.com', 'shaif', 'dnjshkjdsk'),
+(3, 'Shaif Siddiqui', 'shaifsiddiqui1101@gmail.com', 'shaif', 'dnjshkjdsk'),
+(4, 'Shaif Siddiqui', 'shaifsiddiqui1101@gmail.com', 'abcd', 'fhfjyhfyhg');
 
 -- --------------------------------------------------------
 
@@ -73,8 +97,7 @@ CREATE TABLE `user` (
 
 INSERT INTO `user` (`id`, `name`, `email`, `password`, `contact`, `city`, `address`) VALUES
 (1, 'shaif siddiqui', 'shaifsiddiqui1101@gmail.com', '3bbf8b9e613a0047e3fd42bbdaa19b2a', '8756492476', 'fatehgarh', 'bhusa mandi'),
-(2, 'shaif', 'shaifsid123@gmail.com', '16001c7f8a5325684b516c5d8de47ef9', '8756492476', 'fatehgarh', 'bhusa mandi'),
-(3, 'saifsid', 'saif123@gmail.com', '3bbf8b9e613a0047e3fd42bbdaa19b2a', '8756492476', 'fatehgarh', 'bhusa mandi');
+(6, 'saif', 'saif12@gmail.com', '3bbf8b9e613a0047e3fd42bbdaa19b2a', '8756', 'fatehgarh', 'bhusa mandi');
 
 -- --------------------------------------------------------
 
@@ -90,8 +113,25 @@ CREATE TABLE `user_item` (
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
 
 --
+-- Dumping data for table `user_item`
+--
+
+INSERT INTO `user_item` (`id`, `user_id`, `item_id`, `status`) VALUES
+(16, 4, 1, 'Confirmed'),
+(17, 4, 2, 'Confirmed'),
+(18, 4, 3, 'Confirmed'),
+(19, 5, 3, 'Confirmed'),
+(21, 5, 4, 'Added to cart');
+
+--
 -- Indexes for dumped tables
 --
+
+--
+-- Indexes for table `contact_us`
+--
+ALTER TABLE `contact_us`
+  ADD PRIMARY KEY (`id`);
 
 --
 -- Indexes for table `item`
@@ -116,6 +156,12 @@ ALTER TABLE `user_item`
 --
 
 --
+-- AUTO_INCREMENT for table `contact_us`
+--
+ALTER TABLE `contact_us`
+  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=5;
+
+--
 -- AUTO_INCREMENT for table `item`
 --
 ALTER TABLE `item`
@@ -125,13 +171,13 @@ ALTER TABLE `item`
 -- AUTO_INCREMENT for table `user`
 --
 ALTER TABLE `user`
-  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=4;
+  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=7;
 
 --
 -- AUTO_INCREMENT for table `user_item`
 --
 ALTER TABLE `user_item`
-  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=16;
+  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=22;
 COMMIT;
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
